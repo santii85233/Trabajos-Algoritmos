@@ -7,6 +7,6 @@
 
 **Actividades de la Segunda Sesion:**
 
-*  [Reto1](.SegundaSesion/Reto1/Reto1.ipynb)
-*  [Reto2](.SegundaSesion/Reto2/Reto2.ipynb)
-*  [Reto3](.SegundaSesion/Reto3/Reto3.ipynb)
+*  [Reto1](./SegundaSesion/Reto1/Reto1.ipynb)
+*  [Reto2](./SegundaSesion/Reto2/Reto2.ipynb)
+*  [Reto3](./SegundaSesion/Reto3/Reto3.ipynb)
