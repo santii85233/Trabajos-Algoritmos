@@ -1,4 +1,6 @@
-# Trabajos-Algoritmos
+# Trabajos-Algoritmos David Arteaga Pinilla
+
+### Corte 1:
 
 **Actividades de la Primera Sesion:**
 *  [Reto1](./PrimeraSesion/Reto1.pdf)
