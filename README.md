@@ -19,3 +19,9 @@
 *  [Reto3](.PrimerCorte/TerceraSesion/Reto3CaraSello.ipynb)
 *  [Reto4](.PrimerCorte/TerceraSesion/Reto4Juego.ipynb)
 
+**Actividades de la Cuarta Sesion:**
+*  [Reto5](.PrimerCorte/CuartaSesion/Reto5)
+*  [RetoDados](.PrimerCorte/CuartaSesion/Retodados)
+*  [Reto6](.PrimerCorte/CuartaSesion/Reto6)
+
+
