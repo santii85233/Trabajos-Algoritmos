@@ -23,5 +23,6 @@
 *  [Reto5](PrimerCorte/CuartaSesion/Reto5/Reto5.cpp)
 *  [RetoDados](.PrimerCorte/CuartaSesion/Retodados)
 *  [Reto6](PrimerCorte/CuartaSesion/Reto6/Reto6.cpp)
-
+**Quiz 12 agosto**
+*  [Quiz](.PrimerCorte/Quiz/)
 
