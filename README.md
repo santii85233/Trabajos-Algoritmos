@@ -20,8 +20,8 @@
 *  [Reto4](.PrimerCorte/TerceraSesion/Reto4Juego.ipynb)
 
 **Actividades de la Cuarta Sesion:**
-*  [Reto5](.PrimerCorte/CuartaSesion/Reto5)
+*  [Reto5](PrimerCorte/CuartaSesion/Reto5/Reto5.cpp)
 *  [RetoDados](.PrimerCorte/CuartaSesion/Retodados)
-*  [Reto6](.PrimerCorte/CuartaSesion/Reto6)
+*  [Reto6](PrimerCorte/CuartaSesion/Reto6/Reto6.cpp)
 
 
