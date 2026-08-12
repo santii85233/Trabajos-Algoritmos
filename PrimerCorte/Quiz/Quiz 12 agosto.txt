@@ -1,0 +1,32 @@
+Analisis Codigo Promedio C++:
+
+For(i=0){
+    suma=17; /Es el único cambio realizado en la primera iteración
+}
+For(i=1){
+    suma=38; /Se suma la segunda posicion que es 21
+    mayor = 21 /Se cambia el mayor
+}
+For(i= 2){
+    suma=53; /se suma la tercera posicion que es 15
+    menor = 15 /Se cambia el menor
+}
+For (i=3){
+    suma= 72; /se suma la cuarta posicion que es 19
+}
+For(i=4){
+    suma= 86; /Se suma la quinta posicion que es 14
+    menor = 14; /Se actualiza el menor
+}
+For (i=5){
+    suma= 111; /Se suma 25
+    mayor =25; / Se actualiza
+}
+for (i=6){
+    suma=129;
+
+}
+
+Edad mayor: 25
+Edad menor: 14
+Promedio: 16.28
