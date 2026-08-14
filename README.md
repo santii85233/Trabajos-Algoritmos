@@ -3,9 +3,9 @@
 ### Corte 1:
 
 **Actividades de la Primera Sesion:**
-*  [Reto1](.PrimerCorte/PrimeraSesion/Reto1.pdf)
-*  [Reto2](.PrimerCorte/PrimeraSesion/Reto2.pdf)
-*  [Reto3](.PrimerCorte/PrimeraSesion/Reto3.pdf)
+*  [Reto1](PrimerCorte/PrimeraSesion/Reto1.pdf)
+*  [Reto2](PrimerCorte/PrimeraSesion/Reto2.pdf)
+*  [Reto3](PrimerCorte/PrimeraSesion/Reto3.pdf)
 
 **Actividades de la Segunda Sesion:**
 
