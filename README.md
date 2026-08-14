@@ -30,7 +30,7 @@
 
 **Actividades tareas 12 agosto:**
 
-*  [Reto1](.PrimerCorte/CuartaSesion/RetosArreglos/Reto1/)
-*  [Reto2](.PrimerCorte/CuartaSesion/RetosArreglos/Reto2/)
-*  [Reto3](.PrimerCorte/CuartaSesion/RetosArreglos/Reto3/)
-*  [Matriz](.PrimerCorte/CuartaSesion/RetosArreglos/Matriz/)
+*  [Reto1](.PrimerCorte/CuartaSesion/RetosArreglos/Reto1)
+*  [Reto2](.PrimerCorte/CuartaSesion/RetosArreglos/Reto2)
+*  [Reto3](.PrimerCorte/CuartaSesion/RetosArreglos/Reto3)
+*  [Matriz](.PrimerCorte/CuartaSesion/RetosArreglos/Matriz)
