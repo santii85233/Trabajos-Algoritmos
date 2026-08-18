@@ -34,3 +34,7 @@
 *  [Reto2](PrimerCorte/CuartaSesion/RetosArreglos/Reto2)
 *  [Reto3](PrimerCorte/CuartaSesion/RetosArreglos/Reto3)
 *  [Matriz](PrimerCorte/CuartaSesion/RetosArreglos/Matriz)
+
+**Retos Matrices**
+
+*  [Reto1](PrimerCorte/MatrizEjercicios/Reto1)
