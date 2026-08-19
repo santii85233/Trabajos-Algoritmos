@@ -61,13 +61,14 @@ for x in range(len(totalesDia)):
     if totalesDia[x] >maximo:
         maximo=totalesDia[x]
         indice=x
+
+#Se imprime 
 print("El dia con más personas en total, fue el",semana[indice],", contando con un total de",maximo,"Personas.")
 maximo = 0 
+
+#Se halla las franjas con menos de 5 personas
 for x in range(len(totalesFranja)):
     if totalesFranja[x] <5:
         maximo=totalesFranja[x]
         indice=x
         print("La franja",franjash[x],"se encuentra por debajo de 5 personas de asistencia, contando con ",maximo,"personas.")
-
-
-#Que es una clase, que es un objeto, estructura en python, en c++, que cambia y principios fundamentales del poo
