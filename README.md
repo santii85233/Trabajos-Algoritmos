@@ -40,5 +40,3 @@
 *  [Reto1](PrimerCorte/MatrizEjercicios/Reto1)
 *  [Reto2](PrimerCorte/MatrizEjercicios/Reto2)
 *  [Reto3](PrimerCorte/MatrizEjercicios/Reto3)
-
-p
