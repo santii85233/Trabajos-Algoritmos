@@ -1,0 +1,44 @@
+"""Clase describe los objetos que pertenecen a una clase y permiten hacer procesos con esos objetos
+se pueden manipular dichos datos de la clase
+
+clase: 
+Diagrama de Clases:
+    representacion graficas (UML)
+
+        Familia generica de objetos que comparten caracteristicas similares(Atributos) (caraccteristicas que se preguntarian acerca del objeto)
+        Y elegir el que hacer se denominan (metodos)
+Clases se construyen en:
+         /  Nombre   /   Atributo    /   Metodo  /
+
+Atributos:
+    Caracteristicas que definen los objetos/
+    Visibilidad     Nombre:tipo
+
+Visibilidad: - Privada
+             + Publica
+             # Protegida
+
+Metodos:
+    ValorRetorno    Visibilidad     nombre(Parametros)
+
+POO:
+
+Abstracción: Poder sacar informacion de un gran sistema y sacar la necesaria (omitir detalles q no son necesarios para un sistema)
+    
+
+Modularidad: Descomponer en piezas algo grande (Para que no se dañe todo el programa por un solo error) ¡¡¡¡SON CLASES!!!
+
+Encapsulamiento:    Todos los atributos creados en una clase se deben crear los getters() y setters()
+
+getter():   Realizar una consulta de un Metodo
+setter():   Modificar o crear un Metodo 
+
+Polimorfismo:   Realizar 
+
+Objeto: Es algo que se puede percibir su existencia fisica o conceptual 
+    -Los objetos se permiten una relacion entre clases
+
+     
+
+
+"""
