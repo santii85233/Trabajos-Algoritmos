@@ -35,7 +35,8 @@ setter():   Modificar o crear un Metodo
 
 Polimorfismo:   Realizar 
 
-Objeto: Es algo que se puede percibir su existencia fisica o conceptual 
+Objeto: La instancia de una clase, es decir que s 
+    Es algo que se puede percibir su existencia fisica o conceptual 
     -Los objetos se permiten una relacion entre clases
 
      
