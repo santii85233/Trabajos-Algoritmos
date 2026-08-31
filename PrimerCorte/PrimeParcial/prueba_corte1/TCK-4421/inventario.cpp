@@ -57,7 +57,7 @@ int main() {
         cout << "TICKET CERRADO - codigo de cierre: 4421-"
              << totales[0] << totales[1] << totales[2] << suma << endl;
 
-    // FALTAN LIBERACIONES AQUI
+    // AGREGAR DESTRUCTORES PARA EVITAR FUGAS DE MEMORIA
     for (int i = 0; i < N; i++) {
         delete equipos[i];
     }

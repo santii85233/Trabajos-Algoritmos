@@ -13,6 +13,7 @@ protected:
     string codigo;
     bool   prestado;
 public:
+//Se agrega el destructor
     Recurso(string c) : codigo(c), prestado(false) {}
     ~Recurso() {}
 
@@ -25,6 +26,7 @@ class LibroFisico : public Recurso {
 private:
     string autor;
 public:
+    //Se agrega el contructor y su nuevo atributo
     LibroFisico(string c, string a) : Recurso(c), autor(a) {}
     virtual string descripcion() const { return "Libro " + codigo + " de " + autor; }
 };
@@ -32,7 +34,8 @@ public:
 class Equipo : public Recurso {
 private:
     int horasUso;
-public:
+public: 
+    //Se agrega el virtual junto al metodo descripción
     Equipo(string c, int h) : Recurso(c), horasUso(h) {}
     virtual string descripcion() const { return "Equipo " + codigo + " (" + to_string(horasUso) + "h)"; }
 };
@@ -43,6 +46,7 @@ int main() {
     catalogo[0] = new Recurso("RG-001");
     catalogo[1] = new LibroFisico("LF-002", "Borges");
     catalogo[2] = new Equipo("EQ-003", 12);
+    catalogo[1]->prestar();  // prestamos el libro 
 
     int prestados = 0;
     for (int i = 0; i < N; i++) {
@@ -51,7 +55,8 @@ int main() {
         if (catalogo[i]->estaPrestado()) { cout << "  [PRESTADO]"; prestados++; }
         cout << endl;
     }
-
-    for (int i = 0; i < N; i++) delete catalogo[i];   // delete sobre nullptr es seguro
+    for (int i = 0; i < N; i++) {
+        delete catalogo[i];
+    }
     return 0;
 }
