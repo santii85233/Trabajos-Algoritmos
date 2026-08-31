@@ -7,7 +7,7 @@
 using namespace std;
 using namespace std::this_thread; // para no tener que escribir this_thread:: antes de sleep_for()
 using namespace std::chrono;      // para no tener que escribir chrono:: antes de seconds()
-
+//prueba
 int main() {
 
     float compra, descuento, valorFinal;
