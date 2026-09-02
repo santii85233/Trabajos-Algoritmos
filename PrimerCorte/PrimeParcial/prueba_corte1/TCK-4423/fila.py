@@ -37,12 +37,12 @@ class Fila:
         if self.cabeza is None:
             return False
         if self.cabeza.turno == turno:
-            self.cabeza = None                 # <-- caso 1
+            self.cabeza = self.cabeza.siguiente                 # <-- caso 1
             return True
         anterior = self.cabeza
         while anterior.siguiente is not None:
             if anterior.siguiente.turno == turno:
-                anterior.siguiente = anterior.siguiente   # <-- caso 2
+                anterior.siguiente = anterior.siguiente.siguiente   # <-- caso 2
                 return True
             anterior = anterior.siguiente
         return False
