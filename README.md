@@ -1,6 +1,6 @@
 # Trabajos-Algoritmos David Arteaga Pinilla
 
-### Corte 1:
+## Corte 1:
 
 **Actividades de la Primera Sesion:**
 *  [Reto1](PrimerCorte/PrimeraSesion/Reto1.pdf)
@@ -44,3 +44,14 @@
 **Retos POO**
 
 *  [Retos](PrimerCorte/POO/Retos1-4)
+
+**Primer Parcial**
+
+*  [PrimerParcial](PrimerCorte/PrimeParcial)
+
+## Corte 2:
+
+**Busqueda Binaria Recursiva**
+
+*  [BusquedaBinaria](SegundoCorte/RetosBusqueda).
+
