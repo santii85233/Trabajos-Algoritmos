@@ -55,3 +55,9 @@
 
 *  [BusquedaBinaria](SegundoCorte/RetosBusqueda).
 
+**Retos Recursión**
+
+*  [RetosRecursion](SegundoCorte/RetosRecursion).
+**Laboratorio**
+
+*  [Laboratorio](SegundoCorte/Laboratorio).
