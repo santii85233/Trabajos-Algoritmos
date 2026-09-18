@@ -33,13 +33,13 @@ Encapsulamiento:    Todos los atributos creados en una clase se deben crear los 
 getter():   Realizar una consulta de un Metodo
 setter():   Modificar o crear un Metodo 
 
-Polimorfismo:   Realizar 
+Polimorfismo:   Capacidad que tiene para cacmbiar  
 
-Objeto: La instancia de una clase, es decir que s 
-    Es algo que se puede percibir su existencia fisica o conceptual 
+Objeto: Es algo que se puede percibir su existencia fisica o conceptual 
     -Los objetos se permiten una relacion entre clases
+    -Instancia de una clase(INVESTIGAR)
 
-     
+Interfaz: (una clase abstracta)Una pantalla que se le hace a una clase para poder entrar por asi decirlo como doctor strange abriendo portales
 
 
 """

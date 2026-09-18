@@ -1,10 +1,10 @@
 import copy
 import time
 laberinto = [
-    [0, 0, 1, 0, 0],
-    [0, 1, 2, 1, 0],    #los puntos de acopio estan marcados por el numero 2
-    [0, 1, 2, 1, 0],    #las calles cerradas y sin salida estan marcadas con el numero 1    
-    [0, 1, 2, 1, 0],    #las calles abiertas que no tienen un punto de acopio estan marcadas por el numero 0  
+    [0, 0, 1, 2, 0],
+    [0, 1, 0, 0, 0],    #los puntos de acopio estan marcados por el numero 2
+    [0, 1, 0, 1, 0],    #las calles cerradas y sin salida estan marcadas con el numero 1    
+    [0, 1, 0, 1, 0],    #las calles abiertas que no tienen un punto de acopio estan marcadas por el numero 0  
     [0, 0, 0, 0, 0],
 ]
 FILAS, COLS = len(laberinto), len(laberinto[0])
