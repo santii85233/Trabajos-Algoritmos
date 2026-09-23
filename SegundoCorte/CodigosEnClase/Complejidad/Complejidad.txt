@@ -1,0 +1,49 @@
+#A 
+O(0) - constante
+
+#B
+
+O(n)
+
+#C
+
+O(n^2)
+
+
+#D
+
+O(logn)
+
+#E
+
+O(nlogn)
+
+#Tabla de complejidad
+
+O(logn):
+HeapSort:  Se debe a que se trabaja como arbol donde empieza a organizarlo de manera que lo hace .
+
+O(nlogn)
+
+MergeSort: Puesto que divide la complejidad en dos listas y apartir de ahi va el ordenamiento pero es por cada n de la lista dependiendo de la longitud.
+QuickSort: Ya que apartir del pivote empieza el ordenamiento de apartir de los lados y que depende de cada n elementos que se desee ordenar de cada lado.
+
+
+O(n^2)
+
+BubbleSort: Puesto que empieza a recorrer la lista por cada vez que se desea ir cambiando los numeros para ir ordenandolos.
+SelectionSort:  También se encuentra dentro de la cuadratica ya que hasta que encuentre el menor y lo empieze a ordenar recorre la lista por cada elemento que quiere ordenar.
+InsertionSort:  Tiene mayor complejidad puesto que hasta que separe las listas y empieze a compararlas y ordenarlas se repite el proceso de manera que aumenta con la cantidad de elementos.
+
+
+
+    O(1)    |    O(n)   |    O(logn)    |    O(nlogn)   |     O(n^2)    |
+            |           |BucketSort     |Mergesort      |BubbleSort     |
+            |           |HeapSort       |QuickSort      |SelectionSort  |
+            |           |               |               |InsertionSort  |
+            |           |               |               |               |
+
+
+
+
+
