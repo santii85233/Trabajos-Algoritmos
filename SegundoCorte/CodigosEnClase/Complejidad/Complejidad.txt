@@ -18,7 +18,10 @@ O(logn)
 
 O(nlogn)
 
+
 #Tabla de complejidad
+O(n)
+BucketSort: Tiene esta complejidad ya que establece una n cantidad de casilleros en donde se van a distribuir los elementos.
 
 O(logn):
 HeapSort:  Se debe a que se trabaja como arbol donde empieza a organizarlo de manera que lo hace .
@@ -38,10 +41,17 @@ InsertionSort:  Tiene mayor complejidad puesto que hasta que separe las listas y
 
 
     O(1)    |    O(n)   |    O(logn)    |    O(nlogn)   |     O(n^2)    |
-            |           |BucketSort     |Mergesort      |BubbleSort     |
+            |BucketSort |               |Mergesort      |BubbleSort     |
             |           |HeapSort       |QuickSort      |SelectionSort  |
             |           |               |               |InsertionSort  |
             |           |               |               |               |
+
+
+El algoritmo de ordenamiento más caro computacionalmente definitivamente es el bubbleSort, puesto que 
+los cambios se van a realizar por cada elemento del array tal que si es una lista muyy larga se va a demorar
+demasiado hasta que encuentre el valor que este en el orden correcto y asi intercambiarlo con el mismo
+en las pruebas que realizamos fue la que mayor cantidad de cambios y comparaciones se realizaron, convirtiendola
+en el algoritmo más caro computacionalmente.
 
 
 

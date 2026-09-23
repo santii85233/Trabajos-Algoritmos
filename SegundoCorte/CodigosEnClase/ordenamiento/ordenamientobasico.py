@@ -1,4 +1,6 @@
 #comparar vecinos e intercambiar cuando estan alrevez y repetir hasta estar ordenado
+
+
 #bubble sort
 def bubble_sort(arr):
     cambios=0
@@ -29,6 +31,8 @@ def selection_sort(arr):
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
         cambios+=1
     return arr,cambios,comparaciones
+
+
 
 def insertion_sort(arr):
      cambios=0
