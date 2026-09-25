@@ -1,5 +1,6 @@
 # Trabajos-Algoritmos David Arteaga Pinilla
 
+
 ## Corte 1:
 
 **Actividades de la Primera Sesion:**
@@ -63,3 +64,12 @@
 **Laboratorio**
 
 *  [Laboratorio](SegundoCorte/Laboratorio).
+
+
+**Ordenamiento codigos en clase**
+
+* [Ordenamiento](SegundoCorte/CodigosEnClase/ordenamiento)
+
+**Complejidad**
+
+* [Complejidad](SegundoCorte/CodigosEnClase/Complejidad)
