@@ -11,7 +11,6 @@ def busqueda_binaria(lista, objetivo):
             
     return -1  # Elemento no encontrado
 
-
 """
 1. ¿Que es n en la secuencia?
 
@@ -23,11 +22,14 @@ tiene una complejidad de logn y pues si se duplica se ejecutaria una vez más.
 
 3. Dentro de esa secuencia se invoca otro proceso ¿cuántos procesos se invocan?
 
-*No veo que se invoque otro proceso de este mismo.
+*Se invoca len() que es una función del python
 
 4. que tipo de estructura de datos se utiliza
 
 *Se utiliza una estructura de listas array.
 
+
+Es la funcion de busqueda binaria y tiene una complejidad de 
+O(logn)
 
 """
