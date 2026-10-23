@@ -26,7 +26,7 @@
 *  [Reto6](PrimerCorte/CuartaSesion/Reto6/Reto6.cpp)
 
 
-**Quiz 12 agosto**
+**Quiz 12 agosto:**
 *  [Quiz](PrimerCorte/Quiz/)
 
 **Actividades tareas 12 agosto:**
@@ -79,6 +79,6 @@
 * [PILAS](SegundoCorte/CodigosEnClase/PILAS)
 
 
-** Parcial 2 **
+**Parcial 2:**
 
 * [Parcial 2](SegundoCorte/Parcial2)
