@@ -77,3 +77,8 @@
 **PILAS codigos en clase**
 
 * [PILAS](SegundoCorte/CodigosEnClase/PILAS)
+
+
+** Parcial 2 **
+
+* [Parcial 2](SegundoCorte/Parcial2)
