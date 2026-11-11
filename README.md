@@ -82,3 +82,52 @@
 **Parcial 2:**
 
 * [Parcial 2](SegundoCorte/Parcial2)
+
+## Corte 3:
+
+**Retos Arboles de Busqueda (BST)**
+
+*  [Reto1](TercerCorte/RetoArboles/ArbolesBusqueda/Reto1.py)
+*  [Reto2](TercerCorte/RetoArboles/ArbolesBusqueda/Reto2.py)
+*  [Reto3](TercerCorte/RetoArboles/ArbolesBusqueda/Reto3.py)
+
+**Retos Balanceo de Arboles (Rotaciones AVL)**
+
+*  [Reto1](TercerCorte/RetoArboles/BalanceoArboles/reto1.py)
+*  [Reto2](TercerCorte/RetoArboles/BalanceoArboles/reto2.py)
+*  [Reto3](TercerCorte/RetoArboles/BalanceoArboles/reto3.py)
+
+**Retos Grafos**
+
+*  [Reto1](TercerCorte/RetoGrafos/Retografo1/retoGrafos1.py)
+*  [Reto2](TercerCorte/RetoGrafos/Retografo1/retoGrafos2.py)
+*  [Reto3](TercerCorte/RetoGrafos/Retografo1/retoGrafos3.py)
+
+**Retos Recorridos DFS**
+
+*  [Reto1](TercerCorte/RetoGrafos/RetoRecorridos/RecorridosDFS/Reto1.py)
+*  [Reto2](TercerCorte/RetoGrafos/RetoRecorridos/RecorridosDFS/Reto2.py)
+*  [Reto3](TercerCorte/RetoGrafos/RetoRecorridos/RecorridosDFS/Reto3.py)
+
+**Retos Recorridos BFS**
+
+*  [Reto1](TercerCorte/RetoGrafos/RetoRecorridos/RecorridosBFS/Reto1.py)
+*  [Reto2](TercerCorte/RetoGrafos/RetoRecorridos/RecorridosBFS/Reto2.py)
+*  [Reto3](TercerCorte/RetoGrafos/RetoRecorridos/RecorridosBFS/Reto3.py)
+
+**codigos en clase**
+
+*  [Arboles](TercerCorte/CodigosClase/arboles)
+*  [Grafos](TercerCorte/CodigosClase/grafos)
+*  [Busqueda BFS](TercerCorte/CodigosClase/grafos/BusquedaBFS)
+*  [Busquedas DFS (laberinto)](TercerCorte/CodigosClase/grafos/BusquedasDFS)
+
+**Quices**
+
+*  [Quiz Balanceo (30 octubre)](TercerCorte/CodigosClase/grafos/QuizBalanceo)
+*  [Quiz 4 (representacion de grafos)](TercerCorte/CodigosClase/grafos/Quiz-4/11)
+*  [Quiz 6 (DFS)](TercerCorte/CodigosClase/grafos/Quiz-6/11)
+
+**Laboratorio**
+
+*  [laboratorio](TercerCorte/laboratorio/9-11/)
